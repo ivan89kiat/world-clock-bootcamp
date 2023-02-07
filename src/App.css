@@ -5,6 +5,7 @@
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+  padding: 15px 0;
 }
 
 .App-header {
@@ -16,4 +17,16 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+}
+
+.data_container {
+  border: 1px solid white;
+}
+
+.row {
+  border: 1px solid white;
+}
+
+.col {
+  border: 0.5px solid white;
 }
